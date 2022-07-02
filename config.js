@@ -13,7 +13,7 @@ global.APIKeys = {
 
 // Other
 global.namabot = ['AzuraBotz⚡']
-global.namaowner = ['Haikal Ardn']
+global.namaowner = ['Haikal']
 global.owner = ['6289502204644']
 global.premium = ['6289502204634']
 global.packname = '©Azura-Md'
