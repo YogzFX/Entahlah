@@ -34,7 +34,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 5000
+    free: 100
 }
 global.thumb = fs.readFileSync('./lib/zxyn.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
