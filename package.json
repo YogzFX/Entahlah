@@ -1,5 +1,5 @@
 {
-  "name": "hisoka-morou",
+  "name": "𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛",
   "version": "2.3.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Dika Ardnt.",
+  "author": "YogzFX",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.2.0",
